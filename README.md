@@ -1,7 +1,7 @@
 # Classification-Models
 
 Practise of:
-KNN
-Decision  Trees
-Logistic Regression
+KNN <br>
+Decision  Trees <br>
+Logistic Regression <br>
 SVM
